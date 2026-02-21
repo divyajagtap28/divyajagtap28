@@ -1,6 +1,6 @@
 # Hi, I'm Divya Jagtap
 
-Computer Engineering Undergraduate  
+Computer Engineering Student 
 Focused on Machine Learning, Data Science, and Analytical Problem Solving  
 
 I enjoy building regression models, analyzing multicollinearity, reducing overfitting, and applying statistical techniques to real-world datasets.
