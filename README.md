@@ -76,4 +76,4 @@ LinkedIn: https://www.linkedin.com/in/divya-jagtap
 Email: divyajagtap28@gmail.com
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyajagtap28&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyajagtap28&layout=compact&hide_border=true)
