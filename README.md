@@ -22,9 +22,9 @@
 
 I'm a **Third-year Computer Engineering student** passionate about turning raw data into meaningful insights. I enjoy building regression models, analyzing multicollinearity, reducing overfitting, and applying statistical techniques to real-world datasets.
 
-- 🎓 B.E. Computer Engineering (2nd Year)
+- 🎓 B.E. Computer Engineering (3rd Year)
 - 🔭 Currently working on **advanced regression & regularization techniques**
-- 🌱 Learning **Data Structures & Algorithms** and writing production-ready ML code
+- 🌱 Learning **ElasticNet, advanced regularization, and production-ready ML pipelines**
 - 💡 Interested in **regression modeling, model generalization, and applied ML**
 - 📫 Reach me at **divyajagtap28@gmail.com**
 
@@ -85,10 +85,9 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- ElasticNet & advanced regularization methods
-- Data Structures & Algorithms (for interviews & problem-solving)
+- advanced regularization methods
 - Cleaner, production-ready ML pipelines
 - Deepening statistical foundations for machine learning
 
@@ -99,4 +98,5 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 </p>
 
 <p align="center"><em>"Turning data into decisions, one model at a time."</em></p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyajagtap28&layout=compact&hide_border=true)
