@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **second-year Computer Engineering student** passionate about turning raw data into meaningful insights. I enjoy building regression models, analyzing multicollinearity, reducing overfitting, and applying statistical techniques to real-world datasets.
+I'm a **Third-year Computer Engineering student** passionate about turning raw data into meaningful insights. I enjoy building regression models, analyzing multicollinearity, reducing overfitting, and applying statistical techniques to real-world datasets.
 
 - 🎓 B.E. Computer Engineering (2nd Year)
 - 🔭 Currently working on **advanced regression & regularization techniques**
