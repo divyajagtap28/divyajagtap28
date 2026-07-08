@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Divya Jagtap 👋</h1>
 
 <p align="center">
-  <em>Computer Engineering Student · Data Science Enthusiast · ML Explorer</em>
+  <em>Third Year Computer Engineering Student · Data Science Enthusiast · ML Explorer</em>
 </p>
 
 <p align="center">
