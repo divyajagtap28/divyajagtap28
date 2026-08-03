@@ -46,6 +46,8 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051b5?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+
 
 **Databases & Visualization**
 
