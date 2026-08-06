@@ -89,6 +89,14 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 
 ---
 
+## 🎤 Leadership & Involvement
+
+**ACMXPCCOER Student Chapter**
+- **Social Media Head** (2025 – Present) — Leading social media strategy and content for the chapter
+- **Social Media Member** (2024 – 2025) — Contributed to content creation and community engagement
+
+---
+
 ##  Currently Learning
 
 - advanced regularization methods
