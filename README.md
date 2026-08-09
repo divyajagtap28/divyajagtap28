@@ -49,11 +49,14 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051b5?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 
-
 **Databases & Visualization**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Tools**
 
@@ -63,13 +66,13 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
-
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
+| [🎓 Student Placement Salary Prediction](https://github.com/divyajagtap28/student-placement-salary-prediction) | Predicts placement salary using Linear/Ridge/Lasso Regression with GridSearchCV tuning, VIF multicollinearity diagnostics & Lasso feature selection — [live demo](https://divyajagtap28-student-placement-salary-prediction-app-mdirpu.streamlit.app/) | Python, scikit-learn, Streamlit |
 | [💼 Salary Prediction](https://github.com/divyajagtap28/Salary-Prediction-Linear-Regression) | Predicts salary from years of experience using SLR — R² of 0.90 | Python, scikit-learn |
 | [📈 Profit Prediction](https://github.com/divyajagtap28/profit-prediction-multiple-linear-regression) | Multiple linear regression with OLS & Backward Elimination | Python, Statsmodels |
 | [🚗 Car Weight Prediction](https://github.com/divyajagtap28/Cars-Weight-Prediction-Regularization) | Comparative study of OLS, Ridge & Lasso with bias–variance analysis | Python, scikit-learn |
@@ -92,15 +95,16 @@ I'm a **Third-year Computer Engineering student** passionate about turning raw d
 
 ## 🎤 Leadership & Involvement
 
-**ACMXPCCOER Student Chapter** — *[Association for Computing Machinery](https://www.acm.org),PCCOER Student Chapter*
+**ACMXPCCOER Student Chapter** — *[Association for Computing Machinery](https://www.acm.org), PCCOER Student Chapter*
 
 - **Social Media Head** (2025 – Present) — Leading social media strategy and content for the chapter
 - **Social Media Member** (2024 – 2025) — Contributed to content creation and community engagement
+
 ---
 
-##  Currently Learning
+## Currently Learning
 
-- advanced regularization methods
+- Advanced regularization methods
 - Cleaner, production-ready ML pipelines
 - Deepening statistical foundations for machine learning
 
